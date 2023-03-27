@@ -1,0 +1,11 @@
+# Project--Expense-Prediction-in-Health-Care-Industry
+
+This is a project focused on analyzing a healthcare dataset obtained from a Health Management Organization (HMO) in order to identify patterns and derive insights about the key drivers for healthcare costs. The project also aims to develop various models to forecast which individuals will have higher healthcare costs in the upcoming year. The dataset contains over 7,500 records and multiple variables that were analyzed throughout the process to identify which variables have the greatest effect on a person's healthcare costs.
+
+The primary objective of the project is to provide actionable insights to the HMO about how they might reduce their overall healthcare costs. The analysis includes investigating the historical data to make specific recommendations that the HMO can implement to reduce healthcare expenditures and increase their profit.
+
+The project has two main goals: first, to predict the individuals who are likely to spend more on healthcare in the upcoming year, and second, to provide actionable insights on how to lower total healthcare costs. In order to achieve these goals, the project has several objectives such as investigating historical data and deriving actionable insights, predicting healthcare costs for individuals, and making recommendations on how to minimize healthcare costs.
+
+To conduct the analysis in R, the project uses several libraries such as tidyverse, MASS, imputeTS, ggplot2, maps, ggmap, mapproj, kernlab, caret, arules, and arulesViz. These libraries provide functions for data transformation, estimating linear models, replacing null values, creating complex plots from data, drawing maps, and machine learning methods for classification, regression, clustering, and association rules.
+
+Overall, this project is focused on analyzing a healthcare dataset to identify patterns and derive insights about the key drivers for healthcare costs. By developing various models to forecast which individuals will have higher healthcare costs and making specific recommendations on how to reduce overall healthcare costs, the project aims to help the HMO reduce healthcare expenditures and increase their profit.
